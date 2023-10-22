@@ -12,8 +12,9 @@
 /.next/
 /out/
 
-# secret
+# .gitignore
 .env
+
 
 # production
 /build
